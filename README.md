@@ -36,7 +36,7 @@ Cafe-Delight/
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here after deployment.
+ https://kas232.github.io/cafe-delight-project/
 
 ## 📸 Preview
 
